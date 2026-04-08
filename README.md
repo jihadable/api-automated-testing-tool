@@ -1,4 +1,1 @@
-# Correctamundo
-
-## API Automated Testing Tool
-
+# API Automated Testing Tool
