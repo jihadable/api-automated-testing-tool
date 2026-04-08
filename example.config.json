@@ -1,0 +1,24 @@
+{
+    "OASFilePath": "<OAS_FILE_PATH>",
+    "authentications": {
+        "basicAuth": {
+            "username": "<USERNAME>",
+            "password": "<PASSWORD>"
+        },
+        "bearerAuth": "Bearer <BEARER_AUTH>",
+        "apiKeyAuthInHeader": {
+            "X-API-KEY": "<API_KEY>"
+        },
+        "apiKeyAuthInCookie": {
+            "X-API-KEY": "<API_KEY>"
+        },
+        "apiKeyAuthInQuery": {
+            "api-key": "<API_KEY>"
+        }
+    },
+    "requestBodyFilePaths": {
+        "image/png": "<PNG_FILE_PATH>",
+        "image/jpeg": "<JPEG_FILE_PATH>",
+        "application/pdf": "<PDF_FILE_PATH>"
+    }
+}

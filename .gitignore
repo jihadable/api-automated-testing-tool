@@ -1,0 +1,9 @@
+ignore.js
+node_modules
+images.jpg
+images.png
+design.txt
+src/docs
+openapi.json
+config.json
+.DS_Store
