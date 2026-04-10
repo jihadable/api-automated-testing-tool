@@ -230,6 +230,8 @@ const getInvalidData = schemaInput => {
     return getValidData(schema)
 }
 
+module.exports = { getValidData, getInvalidData }
+
 // const getComponents = oas => {
 //     if (!oas.components){
 //         return {}
@@ -272,5 +274,3 @@ const getInvalidData = schemaInput => {
 
 //     return componentsResult
 // }
-
-module.exports = { getValidData, getInvalidData }

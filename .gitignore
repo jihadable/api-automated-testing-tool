@@ -5,5 +5,7 @@ images.png
 design.txt
 src/docs
 openapi.json
+openapi2.json
+openapi3.json
 config.json
 .DS_Store
